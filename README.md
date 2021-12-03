@@ -10,3 +10,6 @@ https://colab.research.google.com/drive/117BBQqsRhLzzSBdbwpC2LMGWrvQRHftR
 | SRR3414635 | control | 18428317                | 17036131      | 16275997                |
 | SRR3414636 | control | 17825380                | 16492688      | 15757580                |
 | SRR3414637 | control | 17844858                | 16447208      | 15736978                |
+
+
+Статистику FastQC см. в соответствующих файлах
